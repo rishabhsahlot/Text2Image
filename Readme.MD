@@ -9,3 +9,10 @@ Below we show the Front-End Application Provided
 ### Home Page
 
 ![Home Page](https://github.com/rishabhsahlot/Text2Image/blob/master/Demo%20Images/Home%20Page.png "Home Page")
+
+### Examples
+
+![Bird with Red Beak and Blue Tail](https://github.com/rishabhsahlot/Text2Image/blob/master/Demo%20Images/RedBeakBlueTail.png "Bird with Red Beak and Blue Tail")
+![Bird with Red Chest and White Feathers](https://github.com/rishabhsahlot/Text2Image/blob/master/Demo%20Images/RedChestWhiteFeathers.png "Bird with Red Chest and White Feathers")
+![Bird with Long Tail and Yellow Feathers](https://github.com/rishabhsahlot/Text2Image/blob/master/Demo%20Images/LongTailYellowFeathers.png "Bird with Long Tail and Yellow Feathers")
+![Bird with Green Feathers and White Legs](https://github.com/rishabhsahlot/Text2Image/blob/master/Demo%20Images/GreenFeathersWhiteLegs.png "Bird with Green Feathers and White Legs")
